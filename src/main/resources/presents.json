@@ -1,0 +1,26 @@
+[
+  {
+    "presentId": "1",
+    "name": "Candles",
+    "description": "Vanilla scented candles",
+    "price": 10
+  },
+  {
+    "presentId": "2",
+    "name": "Perfume",
+    "description": "Sweet floral smelling perfume.",
+    "price": 20
+  },
+  {
+    "presentId": "3",
+    "name": "Hoodie",
+    "description": "Blue coloured hoodie from Hollister",
+    "price": 30
+  },
+  {
+    "presentId": "4",
+    "name": "Mug",
+    "description": "Put your loved ones in the christmas spirit with this cute santa clause mug.",
+    "price": 8
+  }
+]
